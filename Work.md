@@ -1,4 +1,4 @@
-| Initial Papers |
+| TODO |
 |------|
 |[Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)|
 |[Quantum Computing since Democritus](https://scottaaronson.blog/?p=762)|
